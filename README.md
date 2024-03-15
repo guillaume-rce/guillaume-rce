@@ -33,7 +33,7 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
     <img src="img/BRASS Alpha V2.webp" width="400" alt="BRASS Alpha V2"/>
   </a>
 
-  <button type="button" style="margin-top: 10px; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50;"><a href="URL_DU_PROJET_BRASS" style="text-decoration: none; color: white;">Voir le projet</a></button>
+  <button type="button" style="margin-top: 10px; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50;"><a href="URL_DU_PROJET_3" style="text-decoration: none; color: white;">Voir le projet</a></button>
 </div>
 
 ---
@@ -44,7 +44,7 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
     <img src="img/Billiard Solver.webp" width="400" alt="Nom du projet 2"/>
   </a>
 
-  <button type="button" style="margin-top: 10px; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50;"><a href="URL_DU_PROJET_2" style="text-decoration: none; color: white;">Voir le projet</a></button>
+  <button type="button" style="margin-top: 10px; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50;"><a href="URL_DU_PROJET_3" style="text-decoration: none; color: white;">Voir le projet</a></button>
 </div>
 
 ---
