@@ -10,30 +10,23 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
 
 <!-- Faire une bar de navigation pour les différents types de projets -->
 
-<ul align="center" style="list-style-type: none; display: flex; justify-content: space-around; padding: 0; gap: 10px">
-  <li style="margin-top: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #4CAF50;">
-    <a href="pages/game.md" style="text-decoration: none; color: white;">Projets de jeux vidéos</a>
-  </li>
-  <li style="margin-top: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #4CAF50;">
-    <a href="pages/soft.md" style="text-decoration: none; color: white;" >Projets de développement</a>
-  </li>
-  <li style="margin-top: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #4CAF50;">
-    <a href="pages/hard.md" style="text-decoration: none; color: white;">Projets d'éléctronique</a>
-  </li>
-  <li style="margin-top: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #4CAF50;">
-    <a href="pages/pro.md" style="text-decoration: none; color: white;">Projets professionnels</a>
-  </li>
-</ul>
+<p align="center">
+  <!-- Badges comme boutons de navigation, colorés et dynamiques -->
+  <a href="pages/game.md"><img src="https://img.shields.io/badge/Projets%20de%20jeux%20vidéos-4CAF50?style=flat-square&logo=gamepad&logoColor=white" alt="Projets de jeux vidéos"></a>
+  <a href="pages/soft.md"><img src="https://img.shields.io/badge/Projets%20de%20développement-207DE5?style=flat-square&logo=python&logoColor=white" alt="Projets de développement"></a>
+  <a href="pages/hard.md"><img src="https://img.shields.io/badge/Projets%20d'éléctronique-F7DF1E?style=flat-square&logo=arduino&logoColor=black" alt="Projets d'éléctronique"></a>
+  <a href="pages/pro.md"><img src="https://img.shields.io/badge/Projets%20professionnels-FF69B4?style=flat-square&logo=github&logoColor=white" alt="Projets professionnels"></a>
+</p>
 
 ### Quelques exemples
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <h3>L'enceinte BRASS Alpha V2</h3>
   <a href="URL_DU_PROJET_BRASS">
     <img src="img/BRASS Alpha V2.webp" width="400" alt="BRASS Alpha V2"/>
   </a>
-
-  <button type="button" style="margin-top: 10px; padding: 10px 20px; border: none; border-radius: 5px; background-color: #4CAF50;"><a href="URL_DU_PROJET_3" style="text-decoration: none; color: white;">Voir le projet</a></button>
+  <br>
+  <a href="URL_DU_PROJET_3"><img src="https://img.shields.io/badge/-Voir%20le%20projet-4CAF50?style=for-the-badge&logoColor=white" alt="Voir le projet"></a>
 </div>
 
 ---
