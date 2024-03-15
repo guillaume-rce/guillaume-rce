@@ -27,6 +27,7 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
     <img src="img/BRASS Alpha V2.webp" width="400" alt="BRASS Alpha V2"/>
   </a>
   <br>
+  <br>
   <a href="URL_DU_PROJET_BRASS"><img src="https://img.shields.io/badge/-Voir%20le%20projet-4CAF50?style=for-the-badge&logoColor=white" alt="Voir le projet"></a>
 </div>
 
@@ -37,6 +38,7 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
   <a href="URL_DU_PROJET_2">
     <img src="img/Billiard Solver.webp" width="400" alt="Billiard Solver"/>
   </a>
+  <br>
   <br>
   <a href="URL_DU_PROJET_2"><img src="https://img.shields.io/badge/-Voir%20le%20projet-4CAF50?style=for-the-badge&logoColor=white" alt="Voir le projet"></a>
 </div>
@@ -49,6 +51,7 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
     <img src="img/Conference.webp" width="400" alt="Conference"/>
   </a>
   <br>
+  <br>
   <a href="URL_DU_PROJET_3"><img src="https://img.shields.io/badge/-Voir%20le%20projet-4CAF50?style=for-the-badge&logoColor=white" alt="Voir le projet"></a>
 </div>
 
@@ -56,8 +59,8 @@ Je suis Guillaume ROCHE, un passionné de développement logiciel. Découvrez ci
 
 Pour toute question ou si vous souhaitez discuter d'un projet, n'hésitez pas à me contacter :
 
-- **Email :** [groche1217@protonmail.com](mailto:groche1217@protonmail.com)
-- **LinkedIn :** [Votre Profil LinkedIn](URL_DE_VOTRE_PROFIL)
+- **Email :** [groche@oniverse.mozmail.com](mailto:groche@oniverse.mozmail.com)
+- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/guillaume-rce/)
 
 ## Statistiques GitHub
 
